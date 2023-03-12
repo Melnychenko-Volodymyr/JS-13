@@ -14,8 +14,7 @@ body {
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: white;
-    background-image: url('../img/dog1.jpg');
+    background-image: url('../img/dog1.png');
     background-size: contain;
     background-repeat: no-repeat;
     transition: all .5s;
@@ -24,8 +23,7 @@ body {
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: white;
-    background-image: url('../img/dog2.jpg');
+    background-image: url('../img/dog2.png');
     background-size: contain;
     background-repeat: no-repeat;
     transition: all .5s;
@@ -34,7 +32,6 @@ body {
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: white;
     background-image: url('../img/dog3.png');
     background-size: contain;
     background-repeat: no-repeat;
