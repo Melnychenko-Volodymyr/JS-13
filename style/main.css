@@ -10,29 +10,19 @@ body {
     margin: 0 auto;
     margin-top: 50px;
 }
-.dog1{
+.dog{
     position: absolute;
-    width: 100px;
+ /*   width: 100px;
     height: 100px;
-    background-image: url('../img/dog1.png');
+*/
     background-size: contain;
     background-repeat: no-repeat;
     transition: all .5s;
 }
-.dog2{
+.cat{
     position: absolute;
-    width: 100px;
-    height: 100px;
-    background-image: url('../img/dog2.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    transition: all .5s;
-}
-.dog3{
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    background-image: url('../img/dog3.png');
+ /*   width: 100px;
+    height: 100px; */
     background-size: contain;
     background-repeat: no-repeat;
     transition: all .5s;
